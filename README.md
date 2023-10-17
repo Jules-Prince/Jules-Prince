@@ -1,6 +1,6 @@
 ### 💫 About Me  
 
-- **👨‍🎓 I’m currently studying at Polytech Nice Sophia**  
+- **👨‍🎓 I’m currently studying softaware engineering at Polytech Nice Sophia**  
   
 
 - **👨‍💻 I'm working as an intern in Schneider Electric**  
