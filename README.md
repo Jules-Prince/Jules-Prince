@@ -5,7 +5,7 @@
 
 - **👨‍💻 I'm working as an intern in Schneider Electric**
 
-- ** :birthday: I'm 22 yo**
+- **:birthday: I'm 22 yo**
 
 - **🤓 I'm a huge nerd**  
   
