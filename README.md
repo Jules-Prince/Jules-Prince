@@ -3,8 +3,9 @@
 - **👨‍🎓 I’m currently studying softaware engineering at Polytech Nice Sophia**  
   
 
-- **👨‍💻 I'm working as an intern in Schneider Electric**  
-  
+- **👨‍💻 I'm working as an intern in Schneider Electric**
+
+- ** :birthday: I'm 22 yo**
 
 - **🤓 I'm a huge nerd**  
   
