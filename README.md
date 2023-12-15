@@ -1,15 +1,13 @@
 ### 💫 About Me  
 
-- **👨‍🎓 I’m currently studying softaware engineering at Polytech Nice Sophia**  
+- **👨‍🎓 I’m currently studying software engineering at Polytech Nice Sophia**  
   
-
-- **👨‍💻 I'm working as an intern in Schneider Electric**
+- **👨‍💻 I'm working as an intern at Schneider Electric**
 
 - **:birthday: I'm 23 yo**
 
 - **🤓 I'm a huge nerd**  
   
-
 - **🎤 I love Hip-hop culture**  
   
 
