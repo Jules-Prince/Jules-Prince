@@ -8,7 +8,7 @@
 
 - **🤓 I'm a huge nerd**  
   
-- **🎤 I love Hip-hop culture**  
+- **🎤 I love Hip-Hop culture**  
   
 
 <br/>  
