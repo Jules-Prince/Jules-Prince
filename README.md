@@ -1,8 +1,8 @@
 ### 💫 About Me  
 
-- **👨‍🎓 I’m currently studying software engineering at Polytech Nice Sophia**  
+- **👨‍🎓 I finished my studies in software engineering at Polytech Nice Sophia**  
   
-- **👨‍💻 I'm working as an intern at Schneider Electric**
+- **👨‍💻 I'm looking for a new job in software development**
 
 - **:birthday: I'm 23 yo**
 
