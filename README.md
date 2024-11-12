@@ -2,9 +2,9 @@
 
 - **👨‍🎓 I finished my studies in software engineering at Polytech Nice Sophia**  
   
-- **👨‍💻 I'm looking for a new job in software development**
+- **👨‍💻 Working in Skaleet**
 
-- **:birthday: I'm 23 yo**
+- **:birthday: I'm 24 yo**
 
 - **🤓 I'm a huge nerd**  
   
