@@ -1,20 +1,21 @@
-### 💫 About Me  
+# Hi there, I'm Jules! 👋
 
-- **👨‍🎓 I finished my studies in software engineering at Polytech Nice Sophia**  
-  
-- **👨‍💻 Working in Skaleet**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-- **:birthday: I'm 24 yo**
+## 💫 About Me
 
-- **🤓 I'm a huge nerd**  
-  
-- **🎤 I love Hip-Hop culture**  
-  
+> A passionate software engineer with a love for both coding and hip-hop culture 🎤
 
-<br/>  
+- 🎓 Graduate from **Polytech Nice Sophia** in Software Engineering
+- 👨‍💻 Currently working at **Skaleet**
+- 🌱 Always learning and exploring new technologies
+- 🎯 Goal-driven developer with a passion for clean code
+- 🤓 Proud nerd who enjoys solving complex problems
+- 🎵 Love Hip-Hop Culture
 
-
-## My Skill Set  
+## ⚒️ My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -66,28 +67,28 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-  <a href="jules.prince.fr@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
-</a>
-  <a href="https://github.com/Jules-Prince" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/jules-prince-b4bab21a2" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules-Prince&hide_border=true&layout=compact" align="left" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jules-Prince&hide_border=true&layout=compact&theme=dracula" alt="Most Used Languages" />
 </div>
 
-<br/>  
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="mailto:jules.prince.fr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Jules-Prince">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/jules-prince-b4bab21a2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jules-Prince&style=flat-square&color=blue" alt="Profile Views" />
+</div>
