@@ -9,7 +9,6 @@
 > A passionate software engineer with a love for both coding and hip-hop culture 🎤
 
 - 🎓 Graduate from **Polytech Nice Sophia** in Software Engineering
-- 👨‍💻 Currently working at **Skaleet**
 - 🌱 Always learning and exploring new technologies
 - 🎯 Goal-driven developer with a passion for clean code
 - 🤓 Proud nerd who enjoys solving complex problems
@@ -17,7 +16,6 @@
 
 ## ⚒️ My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
